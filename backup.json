@@ -1,0 +1,270 @@
+{
+    "categories": [
+        {
+            "name": "Verification",
+            "position": 1,
+            "permissions": {}
+        },
+        {
+            "name": "Information",
+            "position": 2,
+            "permissions": {}
+        },
+        {
+            "name": "Community Engagement",
+            "position": 3,
+            "permissions": {}
+        },
+        {
+            "name": "Community",
+            "position": 4,
+            "permissions": {}
+        },
+        {
+            "name": "Design Hub",
+            "position": 5,
+            "permissions": {}
+        },
+        {
+            "name": "Advertising Hub",
+            "position": 6,
+            "permissions": {}
+        },
+        {
+            "name": "Asset Hub",
+            "position": 7,
+            "permissions": {}
+        },
+        {
+            "name": "Staff Hub",
+            "position": 8,
+            "permissions": {}
+        }
+    ],
+    "channels": [
+        {
+            "id": 1401761291961634976,
+            "name": "lounge",
+            "type": "voice",
+            "position": 0,
+            "category": "Community",
+            "permissions": {}
+        },
+        {
+            "id": 1401761312471781467,
+            "name": "verify",
+            "type": "text",
+            "position": 1,
+            "category": "Verification",
+            "permissions": {}
+        },
+        {
+            "id": 1401761334500261930,
+            "name": "welcome",
+            "type": "text",
+            "position": 2,
+            "category": "Information",
+            "permissions": {}
+        },
+        {
+            "id": 1401761355677040742,
+            "name": "affiliates",
+            "type": "text",
+            "position": 4,
+            "category": "Information",
+            "permissions": {}
+        },
+        {
+            "id": 1401761376392839209,
+            "name": "feed",
+            "type": "text",
+            "position": 5,
+            "category": "Community Engagement",
+            "permissions": {}
+        },
+        {
+            "id": 1401761387239444500,
+            "name": "hall-of-fame",
+            "type": "text",
+            "position": 6,
+            "category": "Community Engagement",
+            "permissions": {}
+        },
+        {
+            "id": 1401761397100249263,
+            "name": "paid-ads",
+            "type": "text",
+            "position": 7,
+            "category": "Community Engagement",
+            "permissions": {}
+        },
+        {
+            "id": 1401761407694803007,
+            "name": "design-of-the-week",
+            "type": "text",
+            "position": 8,
+            "category": "Community Engagement",
+            "permissions": {}
+        },
+        {
+            "id": 1401761418436677632,
+            "name": "general",
+            "type": "text",
+            "position": 9,
+            "category": "Community",
+            "permissions": {}
+        },
+        {
+            "id": 1401761428897140788,
+            "name": "commands",
+            "type": "text",
+            "position": 10,
+            "category": "Community",
+            "permissions": {}
+        },
+        {
+            "id": 1401761439961845853,
+            "name": "media",
+            "type": "text",
+            "position": 11,
+            "category": "Community",
+            "permissions": {}
+        },
+        {
+            "id": 1401761456180957256,
+            "name": "economy",
+            "type": "text",
+            "position": 12,
+            "category": "Community",
+            "permissions": {}
+        },
+        {
+            "id": 1401761467434532945,
+            "name": "dotw-submissions",
+            "type": "forum",
+            "position": 13,
+            "category": "Design Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761477899190293,
+            "name": "design-help",
+            "type": "text",
+            "position": 14,
+            "category": "Design Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761488489812010,
+            "name": "design-showcase",
+            "type": "text",
+            "position": 15,
+            "category": "Design Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761499315306680,
+            "name": "marketplace",
+            "type": "text",
+            "position": 16,
+            "category": "Advertising Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761509964517530,
+            "name": "hiring",
+            "type": "text",
+            "position": 17,
+            "category": "Advertising Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761520983085127,
+            "name": "for-hire",
+            "type": "text",
+            "position": 18,
+            "category": "Advertising Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761531888275569,
+            "name": "advertising",
+            "type": "text",
+            "position": 19,
+            "category": "Advertising Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761543062032405,
+            "name": "resources",
+            "type": "forum",
+            "position": 20,
+            "category": "Asset Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761553849778217,
+            "name": "asset-requests",
+            "type": "text",
+            "position": 21,
+            "category": "Asset Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761564398457015,
+            "name": "clothing-assets",
+            "type": "forum",
+            "position": 22,
+            "category": "Asset Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761575391596616,
+            "name": "graphics-assets",
+            "type": "forum",
+            "position": 23,
+            "category": "Asset Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761586527600670,
+            "name": "livery-assets",
+            "type": "forum",
+            "position": 24,
+            "category": "Asset Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761604470706227,
+            "name": "misc-assets",
+            "type": "forum",
+            "position": 25,
+            "category": "Asset Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761616273346662,
+            "name": "staff-chat",
+            "type": "text",
+            "position": 26,
+            "category": "Staff Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761628390686915,
+            "name": "staff-cmds",
+            "type": "text",
+            "position": 27,
+            "category": "Staff Hub",
+            "permissions": {}
+        },
+        {
+            "id": 1401761639287492770,
+            "name": "server-logs",
+            "type": "text",
+            "position": 28,
+            "category": "Staff Hub",
+            "permissions": {}
+        }
+    ]
+}
